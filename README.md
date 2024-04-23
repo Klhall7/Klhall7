@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, <br/> I'm Kyra!</h1>
+<h1 align="center">Hola 👋, I'm Kyra!</h1>
 <h3 align="center">A new developer, recently graduated from Carolina Code School in Greenville SC. Looking to keep coding and learning new skills. I like building user-friendly tools that make daily tasks and processes easier.</h3>
 
 - 👨‍💻  I’m currently job-searching and refining my MVP project [Actualize](https://actualize-k.netlify.app/). Feel free to look at the [source code](https://github.com/Klhall7/actualize-full-stack) and let me know if you have any ideas or feedback. 
