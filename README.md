@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Kyra!</h1>
-<h3 align="center">A new developer, recently graduated from Carolina Code School in Greenville SC. Looking to keep coding and learning new skills as it is a major career transition for me. I like building user-friendly tools that make daily tasks and processes easier.</h3>
+<h3 align="center">I started a career transition into Web Devlopment in the Winter of 2024. I graduated from Carolina Code School in March of that year and have continued my schooling at Hudson Valley Comunity College and Albany Can Code. I like building user-friendly tools that make daily tasks and processes easier.</h3>
 
 - 👨‍💻 I currently work a part-time remote position re-designing a company webpage for a small business in NY using WordPress. Outside of that, I take a few days out of the week to job search, and utlize online resources like ShiftNudge, SkillSoft, and The Odin Project to continue learning.
 
