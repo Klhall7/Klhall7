@@ -9,7 +9,7 @@
 
 - 🚧  My largest personal project to date is [Actualize](https://actualize-k.netlify.app/). I would like to continue to refine it and am open to ideas. Feel free to look at the [source code](https://github.com/Klhall7/actualize-full-stack) and let me know if you have any feedback. 
 
-- 🌱 I’m learning the basics of **Cloud Service Integration (Google, AWS, Azure). Enzyme & Jest (for unit testing)** so I can start integrating them into my projects.
+- 🌱 I’m learning all the time, feel free to check my [LinkedIn](https://www.linkedin.com/in/kyra-hall-/) for updates on my latest interests. 
   
 - 💬 **Ask me about anything!** - One of my projects, the reasoning behind my code structure, whatever coding questions or feedback you'd like.<br/> You can email me @**kyravitch98@gmail.com** or request to connect on linkedIn...just make sure you leave a message explaining why you wan't to connect.
   
